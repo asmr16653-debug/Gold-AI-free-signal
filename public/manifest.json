@@ -1,0 +1,25 @@
+{
+  "name": "Gold AI Pro - XAU/USD Institutional Signals",
+  "short_name": "Gold AI Pro",
+  "description": "Professional XAU/USD forex gold signal analysis engine with live market data, SMC & ICT concepts, interactive candlestick charts, and push alerts.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#09090b",
+  "theme_color": "#09090b",
+  "categories": ["finance", "productivity", "utilities"],
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'%3E%3Crect width='192' height='192' rx='36' fill='%2309090b'/%3E%3Cpath d='M96 36 L156 144 L36 144 Z' fill='%23d4af37'/%3E%3Ccircle cx='96' cy='105' r='24' fill='%23ffd700'/%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='96' fill='%2309090b'/%3E%3Cpath d='M256 96 L416 384 L96 384 Z' fill='%23d4af37'/%3E%3Ccircle cx='256' cy='280' r='64' fill='%23ffd700'/%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

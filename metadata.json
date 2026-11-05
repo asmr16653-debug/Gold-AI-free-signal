@@ -1,0 +1,8 @@
+{
+  "name": "Gold AI Pro",
+  "description": "Professional XAU/USD forex gold signal analysis engine with live market data, SMC & ICT concepts, interactive candlestick charts, and push alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
